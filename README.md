@@ -8,4 +8,4 @@ Hardware:
 3. TFT LCD display ILI9225
 
 Software
-1. All libraries uncluded
+1. All libraries included
